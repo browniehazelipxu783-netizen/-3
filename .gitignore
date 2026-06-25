@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+error_log.txt
+data/vendors/_backup/
+.DS_Store
